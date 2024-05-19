@@ -247,7 +247,7 @@ local tbl =
 		},
 		
 		{
-			generalProfile = "Test",
+			generalProfile = "TankStuffs",
 			timelineProfiles = 
 			{
 				["barbariccia-ex"] = "store\\anyone\\extremes\\stormscrown",
@@ -262,7 +262,7 @@ local tbl =
 				p11s = "store\\anyone\\savage3\\p11s",
 				p12s = "kagemaru\\P12S - DRK OT",
 				p1s = "None",
-				p9s = "kagemaru\\P9S - DRK OT",
+				p9s = "None",
 				["rubicante-ex"] = "store\\anyone\\extremes\\rubicante",
 				rubyex = "store\\anyone\\shb\\universal\\rubyex",
 				susanoex = "None",
@@ -273,7 +273,7 @@ local tbl =
 				varisex = "None",
 				wolex = "store\\anyone\\shb\\universal\\wolex",
 				["zeromus-ex"] = "store\\anyone\\extremes\\zeromus",
-				["zodiark-ex"] = "Tank Mits",
+				["zodiark-ex"] = "Zodiark EX - DRK",
 				["zurvan-un"] = "None",
 			},
 		},
